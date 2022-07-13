@@ -1,0 +1,1 @@
+#include "../inc/affiche_attribut.h"
